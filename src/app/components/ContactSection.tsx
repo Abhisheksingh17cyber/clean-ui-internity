@@ -6,7 +6,7 @@ import { motion } from "motion/react";
 gsap.registerPlugin(ScrollTrigger);
 
 const contactDetails = [
-  { label: "Email", value: "hello@internity.studio", href: "mailto:hello@internity.studio" },
+  { label: "Email", value: "abhiisingh240@gmail.com", href: "mailto:abhiisingh240@gmail.com" },
   { label: "Phone", value: "+1 (212) 555-0198", href: "tel:+12125550198" },
   { label: "Location", value: "New York, NY", href: null },
 ];
@@ -122,7 +122,7 @@ export function ContactSection() {
           {/* Main CTA */}
           <motion.a
             ref={ctaRef}
-            href="mailto:hello@internity.studio"
+            href="mailto:abhiisingh240@gmail.com"
             className="group flex items-center gap-5 no-underline"
             onMouseEnter={() => setCtaHovered(true)}
             onMouseLeave={() => setCtaHovered(false)}
@@ -173,7 +173,7 @@ export function ContactSection() {
                   fontSize: "clamp(1rem, 1.8vw, 1.3rem)",
                 }}
               >
-                hello@internity.studio
+                abhiisingh240@gmail.com
               </p>
             </div>
           </motion.a>

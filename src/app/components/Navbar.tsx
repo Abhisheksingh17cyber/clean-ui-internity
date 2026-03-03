@@ -220,11 +220,11 @@ export function Navbar() {
                     Say hello
                   </p>
                   <a
-                    href="mailto:hello@internity.studio"
+                    href="mailto:abhiisingh240@gmail.com"
                     className="text-white/60 hover:text-white transition-colors duration-300 text-sm no-underline block"
                     style={{ fontFamily: "Space Grotesk, sans-serif" }}
                   >
-                    hello@internity.studio
+                    abhiisingh240@gmail.com
                   </a>
                   <p
                     className="text-white/30 text-xs mt-4"

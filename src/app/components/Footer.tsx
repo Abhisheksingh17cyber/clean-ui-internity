@@ -190,11 +190,11 @@ export function Footer() {
               Start a Project
             </p>
             <a
-              href="mailto:hello@internity.studio"
+              href="mailto:abhiisingh240@gmail.com"
               className="text-white/55 hover:text-white transition-colors duration-300 text-sm no-underline block mb-1"
               style={{ fontFamily: "Space Grotesk, sans-serif" }}
             >
-              hello@internity.studio
+              abhiisingh240@gmail.com
             </a>
             <a
               href="tel:+12125550198"
