@@ -197,11 +197,11 @@ export function Footer() {
               abhiisingh240@gmail.com
             </a>
             <a
-              href="tel:+12125550198"
+              href="tel:+919580335854"
               className="text-white/35 hover:text-white/60 transition-colors duration-300 text-sm no-underline block"
               style={{ fontFamily: "Space Grotesk, sans-serif" }}
             >
-              +1 (212) 555-0198
+              +91 95803 35854
             </a>
           </div>
 

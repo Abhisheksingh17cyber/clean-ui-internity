@@ -7,7 +7,7 @@ gsap.registerPlugin(ScrollTrigger);
 
 const contactDetails = [
   { label: "Email", value: "abhiisingh240@gmail.com", href: "mailto:abhiisingh240@gmail.com" },
-  { label: "Phone", value: "+1 (212) 555-0198", href: "tel:+12125550198" },
+  { label: "Phone", value: "+91 95803 35854", href: "tel:+919580335854" },
   { label: "Location", value: "New York, NY", href: null },
 ];
 
